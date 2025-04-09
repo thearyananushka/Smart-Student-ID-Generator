@@ -112,7 +112,7 @@ const ClassicTemplate = ({ studentData }: ClassicTemplateProps) => {
                 <text x="40" y="25" textAnchor="middle" fill="#6b7280" style={{ font: 'bold 10px sans-serif' }}>UNITY</text>
               </svg>
             </div>
-            <p className="text-xs text-gray-500">Valid for 2023-2024</p>
+            <p className="text-xs text-gray-500">Valid for 2025-2026</p>
           </div>
         </div>
       </div>
